@@ -1,0 +1,11 @@
+Name      Account No.   Amount
+Becker       9073      6235.75
+Brown        1435       234.55
+Doe          6739      3655.80
+Dunn         2091      2011.75
+Rich         1003       -42.00
+Smith        8766       945.05
+Stone        4530         0.00
+Becker has the highest amount $6235.75 in account number 9073
+Rich has the lowest amount $-42.00 in account number 1003
+The average is $1862.99
